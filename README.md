@@ -45,7 +45,8 @@ system we studied on many peripherals.
  # 2.1 Introduction
  Here i am describing the basic diagram of our system. After that we will introduce the
 required components. And finally, we will draw the main circuit diagram.
-# Rest of all process are provide in Code File
+# Rest of all process are provided into Code File. Thanks 😊
+
 
 
 
