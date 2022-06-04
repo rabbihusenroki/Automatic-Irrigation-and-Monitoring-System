@@ -1,0 +1,2 @@
+# Automatic-Irrigation-and-Monitoring-System
+Automatic Irrigation Process, is an automatic and self-controlled system, that can irrigate the plants properly and smartly. It works with moisture condition of the soli. And according to that, it can control the pump that will be used for irrigation. The main purpose of this system is minimizing the losses of water and power, beside of that maximize the productivity.
